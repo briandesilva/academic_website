@@ -38,4 +38,6 @@ weight = 1
 
 # Biography
 
-I am a PhD student in the Applied Mathematics department at the University of Washington. My research involves developing component-based reduced order models for parameter-dependent elliptic linear partial differential equations. My advisor is [Ulrich Hetmaniuk](http://www.hetmaniuk.net/).
+I am a PhD student in the Applied Mathematics department at the University of Washington. My research involves developing component-based reduced order models for parameter-dependent elliptic linear partial differential equations. I am advised by [Ulrich Hetmaniuk](http://www.hetmaniuk.net/).
+
+[CV](/cv/bdesilvacv.pdf)
