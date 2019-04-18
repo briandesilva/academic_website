@@ -18,9 +18,10 @@ weight = 70
 
 Quarter      |  Course
 ----------   | -------------
-Summer 2017: |	**AMATH 351:** *Introduction to Differential Equations and Applications*
-Winter 2017: |	**AMATH 352:** *Applied Linear Algebra and Numerical Analysis*
-Summer 2016: |	**AMATH 352:** *Applied Linear Algebra and Numerical Analysis*
+Autumn 2018 |	**AMATH 351:** *Introduction to Differential Equations and Applications*
+Summer 2017 |	**AMATH 351:** *Introduction to Differential Equations and Applications*
+Winter 2017 |	**AMATH 352:** *Applied Linear Algebra and Numerical Analysis*
+Summer 2016 |	**AMATH 352:** *Applied Linear Algebra and Numerical Analysis*
 
 <br><br>
 ## Teaching Assistant:

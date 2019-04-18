@@ -12,10 +12,10 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Reduced Order Modeling",
+    "Machine Learning",
     "Numerical Analysis",
-    "Data Science",
-    "Scientific Computing"
+    "Scientific Computing",
+    "Reduced Order Modeling"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -38,6 +38,6 @@ weight = 1
 
 # Biography
 
-I am a PhD student in the Applied Mathematics department at the University of Washington. My research involves developing component-based reduced order models for parameter-dependent elliptic linear partial differential equations. I am advised by [Ulrich Hetmaniuk](http://www.hetmaniuk.net/).
+I am a Ph.D. candidate in the Applied Mathematics department at the University of Washington. My research involves sparsity-promoting regularization methods in neural networks and data-driven discovery of dynamical systems. I have also worked on developing component-based reduced order models for parameter-dependent elliptic linear partial differential equations. I am advised by [Nathan Kutz](http://faculty.washington.edu/kutz/).
 
 [CV](cv/bdesilvacv.pdf)

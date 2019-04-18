@@ -14,17 +14,17 @@ weight = 60
 
 +++
 
-- Numerical Solution of Differential Equations
-- Machine Learning
-- Machine Learning for Big Data
+- Machine Learning (and Machine Learning for Big Data)
 - Numerical Linear Algebra
+- Numerical Solution of Differential Equations
 - Approximation Theory & Spectral Methods
+- Data visualization
+- Numerical Optimization
 - Dynamical Systems
-- Nonlinear Partial Differential Equations
 - Data Analysis
 - Statistics
-- Numerical Optimization
 - Functional Analysis
 - Partial Differential Equations
+- Nonlinear Partial Differential Equations
 - Finite Volume Methods
 
