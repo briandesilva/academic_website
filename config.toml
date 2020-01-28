@@ -159,14 +159,38 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
+  name = "Research"
+  url = "/research/"
+  identifier = "research"
+  weight = 2
+
+[[menu.main]]
+  name = "Nonsmooth regularization"
+  url = "/research/nonsmooth-regularization"
+  parent = "research"
+  weight = 2
+
+[[menu.main]]
+  name = "Dynamical system discovery"
+  url = "/research/dynamical-system-discovery"
+  parent = "research"
+  weight = 2
+
+[[menu.main]]
+  name = "Parametrized PDEs"
+  url = "/research/parametrized-pdes"
+  parent = "research"
+  weight = 2
+
+[[menu.main]]
   name = "Coursework"
   url = "#coursework"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 3
+  weight = 4
 
 # [[menu.main]]
 #   name = "Publications"
@@ -178,6 +202,7 @@ defaultContentLanguageInSubdir = false
 #   url = "#posts"
 #   weight = 3
 
+# TODO
 # [[menu.main]]
 #   name = "Projects"
 #   url = "#projects"
@@ -187,7 +212,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 4
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
