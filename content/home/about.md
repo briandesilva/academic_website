@@ -22,7 +22,7 @@ weight = 1
 [[education.courses]]
   course = "Ph.D. in Applied Mathematics (advanced data science option)"
   institution = "University of Washington"
-  year = "in progress"
+  year = 2020
 
 [[education.courses]]
   course = "M.S. in Applied Mathematics"
@@ -38,6 +38,6 @@ weight = 1
 
 # Biography
 
-I am a Ph.D. candidate in the Applied Mathematics department at the University of Washington. My research involves sparsity-promoting regularization methods in neural networks and data-driven discovery of dynamical systems. I have also worked on developing component-based reduced order models for parameter-dependent elliptic linear partial differential equations. I am advised by [Nathan Kutz](http://faculty.washington.edu/kutz/).
+I am a Postdoctoral fellow in the Applied Mathematics department at the University of Washington working with [Nathan Kutz](http://faculty.washington.edu/kutz/) and [Steve Brunton](https://www.eigensteve.com/). My research involves sparsity-promoting regularization methods in neural networks and data-driven discovery of dynamical systems. I have also worked on developing component-based reduced order models for parameter-dependent elliptic linear partial differential equations.
 
 [CV](cv/bdesilvacv.pdf)
